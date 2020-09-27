@@ -8,8 +8,12 @@ dr-robot = {editable = true,path = "."}
 idna-ssl = "*"
 
 [dev-packages]
+<<<<<<< HEAD
+docker = "~=4.3"
+=======
 docker = "~=4.0"
 <<<<<<< HEAD
+>>>>>>> master
 requests = "~=2.0"
 netaddr = "~=0.8.0"
 mattermostdriver= "~=6.0"
