@@ -2,6 +2,9 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+            "sha256": "a3066e9cf1a385d6b4c183ae06b2fff4f75c3f1f0a06012eb56def542c41942d"
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
             "sha256": "a568ade59d97d543aa71a45f686714ec9d606dadcf57b8aae2bc3a80c8cd4337"
 =======
@@ -9,6 +12,7 @@
 >>>>>>> a737afd17d5002aa3d3906d280a26145cf447493
 =======
             "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+>>>>>>> master
 >>>>>>> master
         },
         "pipfile-spec": 6,
@@ -179,6 +183,9 @@
             "version": "==0.16"
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
         },
         "entrypoints": {
             "hashes": [
@@ -290,10 +297,10 @@
         },
         "mattermostdriver": {
             "hashes": [
-                "sha256:7dcf92d601379650d4ebf4dc60eb6f6574f359f9c6860263def68ddc060d0128"
+                "sha256:3b9040503d553f1188ebbaf643de61d5bcf382037f083fbfa704d31c87c3aba7"
             ],
             "index": "pypi",
-            "version": "==6.3.1"
+            "version": "==7.1.0"
         },
         "mccabe": {
             "hashes": [
