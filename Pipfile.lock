@@ -2,6 +2,9 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+            "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+=======
+<<<<<<< HEAD
             "sha256": "d121e22995268bf92517598d3c12953505ab0088020e1497ebd7ccaf7026c0b7"
 =======
 <<<<<<< HEAD
@@ -21,6 +24,7 @@
 >>>>>>> a737afd17d5002aa3d3906d280a26145cf447493
 =======
             "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -203,6 +207,9 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -524,6 +531,9 @@
             "version": "==4.41.0"
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
         },
