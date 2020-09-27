@@ -2,6 +2,9 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+            "sha256": "fa0720067d5efb26171d065ceee7a8fa2f489f1534f2df72df943b1364a49865"
+=======
+<<<<<<< HEAD
             "sha256": "413dd1b26d1ccf984251d1972e51ae4428c852ad6db1661cf67bf579d19770dc"
 =======
 <<<<<<< HEAD
@@ -31,6 +34,7 @@
 >>>>>>> a737afd17d5002aa3d3906d280a26145cf447493
 =======
             "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -219,6 +223,9 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -372,11 +379,11 @@
         },
         "netaddr": {
             "hashes": [
-                "sha256:38aeec7cdd035081d3a4c306394b19d677623bf76fa0913f6695127c7753aefd",
-                "sha256:56b3558bd71f3f6999e4c52e349f38660e54a7a8a9943335f73dfc96883e08ca"
+                "sha256:9666d0232c32d2656e5e5f8d735f58fd6c7457ce52fc21c98d45f2af78f990ac",
+                "sha256:d6cc57c7a07b1d9d2e917aa8b36ae8ce61c35ba3fcd1b83ca31c5a0ee2b5a243"
             ],
             "index": "pypi",
-            "version": "==0.7.19"
+            "version": "==0.8.0"
         },
         "packaging": {
             "hashes": [
@@ -471,8 +478,11 @@
                 "sha256:a59dc181727e95d25f781f0eb4fd1825ff45590ec8ff49eadfd7f1a537cc0232"
             ],
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
             "markers": "python_version >= '3.0'",
 =======
+>>>>>>> master
 >>>>>>> master
             "version": "==2.0.1"
         },
@@ -538,6 +548,10 @@
 <<<<<<< HEAD
             ],
             "version": "==1.1.4"
+=======
+<<<<<<< HEAD
+            ],
+            "version": "==1.1.4"
         },
         "toml": {
             "hashes": [
@@ -548,6 +562,7 @@
 =======
             ],
             "version": "==1.1.4"
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
         },
@@ -567,6 +582,9 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master

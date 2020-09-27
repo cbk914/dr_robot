@@ -9,9 +9,15 @@ idna-ssl = "*"
 
 [dev-packages]
 docker = "~=4.0"
+<<<<<<< HEAD
+requests = "~=2.0"
+netaddr = "~=0.8.0"
+mattermostdriver= "~=6.0"
+=======
 requests = "~=2.24"
 netaddr = "~=0.7.19"
 mattermostdriver= "~=7.1"
+>>>>>>> master
 shodan = "~=1.0"
 <<<<<<< HEAD
 certifi = "~=2019.9"
