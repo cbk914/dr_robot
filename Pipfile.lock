@@ -2,6 +2,9 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+            "sha256": "13a5346c09cde1267cfb97c4b2643bbfa8552ec1db0f53128f31541abcc37f27"
+=======
+<<<<<<< HEAD
             "sha256": "856c3c36bc59096e55923153526d6affc05d95913ffa8b595535ad5e0b42dc6f"
 =======
 <<<<<<< HEAD
@@ -15,6 +18,7 @@
 >>>>>>> a737afd17d5002aa3d3906d280a26145cf447493
 =======
             "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -191,6 +195,9 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
         },
@@ -500,11 +507,15 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:166a82cdea964ae45528e0cc89436255ff2be73dc848bdf239f13c501cae5dc7",
-                "sha256:9036904496bd2afacf836a6f206c5a766ce11d3e9319d54a4e794c0f34b111dc"
+                "sha256:8f3c5815e3b5e20bc40463fa6b42a352178859692a68ffaa469706e6d38342a5",
+                "sha256:faf9c671bd3fad5ebaeee366949d969dca2b2be32c872a7092a1e1a9048d105b"
             ],
             "index": "pypi",
+<<<<<<< HEAD
+            "version": "==4.49.0"
+=======
             "version": "==4.41.0"
+>>>>>>> master
         },
         "urllib3": {
             "hashes": [
