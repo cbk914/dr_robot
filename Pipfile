@@ -9,7 +9,7 @@ idna-ssl = "*"
 
 [dev-packages]
 docker = "~=4.0"
-requests = "~=2.0"
+requests = "~=2.24"
 netaddr = "~=0.7.19"
 mattermostdriver= "~=7.1"
 shodan = "~=1.0"
