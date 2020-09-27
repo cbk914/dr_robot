@@ -8,16 +8,37 @@ dr-robot = {editable = true,path = "."}
 idna-ssl = "*"
 
 [dev-packages]
+<<<<<<< HEAD
 docker = "~=4.3"
+=======
+docker = "~=4.0"
+<<<<<<< HEAD
+>>>>>>> master
 requests = "~=2.0"
-netaddr = "~=0.7.19"
+netaddr = "~=0.8.0"
 mattermostdriver= "~=6.0"
+=======
+requests = "~=2.24"
+netaddr = "~=0.7.19"
+<<<<<<< HEAD
+mattermostdriver= "~=6.0"
+shodan = "~=1.23"
+=======
+mattermostdriver= "~=7.1"
+>>>>>>> master
 shodan = "~=1.0"
+<<<<<<< HEAD
+>>>>>>> master
 certifi = "~=2019.9"
-beautifulsoup4 = "~=4.0"
+beautifulsoup4 = "~=4.9"
 tqdm = "~=4.0"
+=======
+certifi = "~=2020.6"
+beautifulsoup4 = "~=4.0"
+tqdm = "~=4.49"
+>>>>>>> master
 dicttoxml = "~=1.0"
-slackclient = "~=2.0"
+slackclient = "~=2.9"
 argparse= "*"
 "flake8" = "*"
 pylint = "*"
