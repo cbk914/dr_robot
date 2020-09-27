@@ -16,10 +16,15 @@ mattermostdriver= "~=6.0"
 =======
 requests = "~=2.24"
 netaddr = "~=0.7.19"
+<<<<<<< HEAD
+mattermostdriver= "~=6.0"
+shodan = "~=1.23"
+=======
 mattermostdriver= "~=7.1"
 >>>>>>> master
 shodan = "~=1.0"
 <<<<<<< HEAD
+>>>>>>> master
 certifi = "~=2019.9"
 beautifulsoup4 = "~=4.9"
 tqdm = "~=4.0"

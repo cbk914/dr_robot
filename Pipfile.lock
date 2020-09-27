@@ -2,7 +2,11 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "sha256": "fa0720067d5efb26171d065ceee7a8fa2f489f1534f2df72df943b1364a49865"
+=======
+            "sha256": "814908df595c07c40259aacab5665a43baa326d65f480be435ef180a6208b7a0"
+>>>>>>> dependabot/pip/shodan-1.23.1
 =======
 <<<<<<< HEAD
             "sha256": "413dd1b26d1ccf984251d1972e51ae4428c852ad6db1661cf67bf579d19770dc"
@@ -445,10 +449,10 @@
         },
         "shodan": {
             "hashes": [
-                "sha256:eab999bca9d3b30e6fc549e609194ff2d6fac3caea252414e1d8d735efab8342"
+                "sha256:d2d37d47dd084747df672e6d981f6d72d5d03f4ee12f0ce2170e618147578349"
             ],
             "index": "pypi",
-            "version": "==1.21.0"
+            "version": "==1.23.1"
         },
         "six": {
             "hashes": [
