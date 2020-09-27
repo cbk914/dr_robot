@@ -1,7 +1,11 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "856c3c36bc59096e55923153526d6affc05d95913ffa8b595535ad5e0b42dc6f"
+=======
+            "sha256": "2fb09bb03cee42837aec1195c81617dc02ffe4fa2ca8fa0186363c360064a5ad"
+>>>>>>> master
         },
         "pipfile-spec": 6,
         "requires": {
@@ -395,11 +399,11 @@
         },
         "slackclient": {
             "hashes": [
-                "sha256:16ebbfa1c34374fa8c508d0c8e5c670e41bba4a3f62c469ab1ee1b8225a939fa",
-                "sha256:d37e4f91be9cf9d5c1a1698f44a37671fc92823ff01146cd827415f35fabe636"
+                "sha256:214edd4a494cc74353c8084ec184ff97a116d4b12cde287f805a9af948ef39ae",
+                "sha256:3a3e84fd4f13d9715740c13ce6c3c25b970147aeeeec22ef137d796124dfcf08"
             ],
             "index": "pypi",
-            "version": "==2.5.0"
+            "version": "==2.9.1"
         },
         "snowballstemmer": {
             "hashes": [
